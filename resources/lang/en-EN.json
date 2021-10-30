@@ -1,0 +1,20 @@
+{
+    "page_not_found": "Page not found",
+    "page_name": "Page name",
+    "no_internet_connection_connect_to_the_internet_and_try_again": "No internet connection. Connect to the internet and try again.",
+    "No_Internet_Connection": "No Internet Connection",
+    "Your_device_is_not_connected_to_Internet": "Your device is not connected to Internet",
+    "Please_do_the_following_to_establish_connection": "Please do the following to establish connection:",
+    "Go_to_the_WLAN_settings_on_your_device_and_check_if_there_are_available_WLAN_networks": "\u2022  Go to the WLAN settings on your device, and check if there are available WLAN networks.",
+    "Check_your_device_if_it_is_enabled_cellular_data_network_and_confirm_that_it_is_in_service": "\u2022  Check the device if it is enabled cellular data network, and confirm that it is in service.",
+    "Check_whether_the_app_is_data_restricted_by_your_device_system_or_other_data_restricting_app": "\u2022  Check whether the app is data-restricted by your device system or other data-restricting apps.",
+    "If_you_have_accessed_to_WLAN": "If you have accessed to WLAN:",
+    "Check_whether_the_WLAN_network_chosen_connects_to_internet_and_allows_your_device_to_access_internet": "\u2022  Check whether the WLAN network chosen connects to internet and allows your device to access internet.",
+    "no_internet_connection": "No internet connection",
+    "no_network_connection": "No network connection",
+    "Something_was_wrong": "Something was wrong",
+    "Check_the_solution": "Check the solution",
+    "TAP_TO_RETRY": "TAP TO RETRY",
+    "aa": "aa",
+    "jj": "jj"
+}
