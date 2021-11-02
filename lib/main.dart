@@ -1,4 +1,7 @@
+import 'dart:io';
+
 import 'package:flutter_reference/components/enums.dart';
+import 'package:flutter_reference/components/http_client_overrides.dart';
 import 'package:flutter_reference/services/navigation_service.dart';
 import 'package:flutter_reference/services/theme_service.dart';
 import 'package:flutter_reference/views/splash/splash_screen.dart';
@@ -11,6 +14,7 @@ import 'package:provider/provider.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await EasyLocalization.ensureInitialized();
+  HttpOverrides.global = HttpClientOverrides();
   runApp(
     MultiProvider(
       providers: StaticList.providerList,

@@ -15,6 +15,7 @@ enum CalculateFileSize {
 }
 
 class Utils {
+  static TextStyle defaultTextStyle = TextStyle(height: 1.3);
   static Random _random = Random();
   static const _chars =
       'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz1234567890';
